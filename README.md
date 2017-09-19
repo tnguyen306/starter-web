@@ -13,4 +13,7 @@ Sample website with plenty of files for demos. What is the purpose of the git re
 this showing how to deploy.ASDASDASDASLUFDHAKSHGFJHFHDSFSDFKJHSDFNJAHSKFHAKJSHFJHSDNKJLFHIUSDHFJcv
 
 ## How contribute 
-this showing how to contribute to the code
+this showing how to contribute to the code.HFDJKHSDJLKHFKJLSDHLFKJHSDKJLFHSDHFKJSDLKH.tfghdgfdsdsgdfhgjfhgf
+gffjhgfhgjfgfjhgfghf
+yghjgkgkjhgkgg
+ghiyturdfgv
