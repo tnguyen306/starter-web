@@ -8,3 +8,9 @@ This is to learn git
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deploymnet
+this showing how to deploy 
+
+## How contribute 
+this showing how to contribute to the code
